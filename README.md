@@ -6,4 +6,4 @@
  
  Espero que goste.
 
-link para o site: https://mech24689.github.io/Portfolio/
+link para o site: https://mech24689.github.io/portfolio/
