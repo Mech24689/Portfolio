@@ -114,6 +114,21 @@ h1{
 .apresentacao p{
     width: 60%;
 }
+
+/* style sobre-mim */
+
+.sobre-mim{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    letter-spacing: 1px;
+}
+
+.sobre-mim p {
+    width: 55%
+}
+
 /* style linguagens que conheço */
 
 .languages{

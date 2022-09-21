@@ -15,7 +15,6 @@ function typeWriter(elemento) {
   //   }
   // }
 
-  const titulo = document.querySelector('h1');
   const texto = document.querySelector('p')
 
   typeWriter(texto)
