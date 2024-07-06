@@ -29,6 +29,7 @@
     transition: 400ms;
     visibility: hidden;
     border-bottom: 5px dashed #03A014;
+    overflow: hidden;
 }
 
 /* h1{
@@ -59,7 +60,7 @@ h1:hover{
     }
 }
 
-h1{
+.title{
     transition: 600ms;
     font-size: 2.8em;
     color: aqua;
@@ -93,6 +94,12 @@ h1{
 }
 
 /* style Apresentação */
+.video1{
+    position: absolute;
+    width: 100%;
+    filter: brightness(30%);
+}
+
 .apresentacao{
     display: flex;
     flex-direction: column;
