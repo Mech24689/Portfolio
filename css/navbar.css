@@ -46,4 +46,8 @@ li {
 li:hover{
     background-color: aqua;
     transform: scale(1.2);
-} 
+}
+
+ul:hover{
+    cursor: pointer;
+}

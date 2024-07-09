@@ -12,5 +12,5 @@ var zerar = {
     delay: 0
 }
 
-    sr.reveal(".title, .area-lang, .text", slide)
+    sr.reveal(".title, .area-lang, .text, .area-experiencia", slide)
     sr.reveal(".container", zerar)
